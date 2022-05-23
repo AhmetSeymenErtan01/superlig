@@ -1,0 +1,78 @@
+.tablo{
+    border-style: solid;
+    width: 1100px;
+    text-align: center;
+    border-color: black;
+    float: left;
+    background-color: white;
+    
+}
+.tablo th{
+    width: 150px;
+    background-color: grey;
+}
+.başlık{
+    background-color: darkblue;
+    font-family: Arial;
+    text-align: center ;
+    font-size: 30;
+    float: left;
+    border-color: black;
+    color:white;
+    border-collapse: collapse;
+    width: 1900px;
+}
+.tablo td{border: 1px solid black;
+    text-align: center;
+}
+.Şampiyonlar{
+    background-color: aqua;
+    width: 1100px;
+    text-align: center;
+}
+.Avrupa{
+    background-color: lightblue;
+    width: 1100px;
+    text-align: center;
+}
+.düşenler{
+    background-color: red;
+    width: 1100px;
+    text-align: center;
+}
+.geri{
+    font-size: 35PX;
+    text-align: center;    
+}
+
+.h2{
+    text-align: center;
+    font-size: 50PX;
+    
+}
+#küme{
+    background-color: red;
+    text-align: center;
+}
+#Şligi{
+    background-color: aqua;
+}
+#Aligi{
+    background-color: lightblue;
+}
+
+#Dligler{
+    background-color: darkblue;
+font-family: Arial;
+text-align: center ;
+font-size: 50;
+float: right;
+border-color: black;
+color:white;
+width: 790px;
+height: 120px;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;}
